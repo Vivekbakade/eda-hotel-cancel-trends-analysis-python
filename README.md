@@ -66,4 +66,5 @@ Based on the data analysis, the following actionable strategies are recommended 
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed, along with Jupyter Notebook, Pandas, Matplotlib, and Seaborn.
 3. Place the `hotel_bookings 2.csv` file in the same directory as the notebook.
-4. Open `Hotel_booking_code.ipynb` in Jupyter Notebook and run the cells sequentially.
+4. Dataset link: https://drive.google.com/file/d/1-QwW.
+5. Open `Hotel_booking_code.ipynb` in Jupyter Notebook and run the cells sequentially.
